@@ -2,7 +2,6 @@
 data originate from https://dokochina.com/fayin.htm
 """
 import json
-import jieba
 import conv.constants as C
 from pypinyin import lazy_pinyin, Style
 import os
